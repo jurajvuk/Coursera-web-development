@@ -1,0 +1,24 @@
+body { padding-top: 70px; }
+
+.navbar-header > a {
+	font-size: 1.8em;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+#nav-list li:hover{
+	background-color: #ddd;
+}
+
+#chicken, #beef, #sushi {
+	background-color: #efefef;
+	padding: 10px;
+}
+
+#chicken, #beef {
+	margin-right: 10px;
+	margin-bottom: 10px;
+	
+}
